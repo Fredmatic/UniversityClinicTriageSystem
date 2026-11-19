@@ -1,0 +1,14 @@
+# Compiled executable
+clinic_triage
+
+# Object files
+*.o
+
+# Debug files
+*.out
+
+# Temporary files
+*.tmp
+
+# VS Code settings
+.vscode/
